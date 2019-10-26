@@ -10,6 +10,9 @@
     "eslint-plugin-node": "^10.0.0",
     "package.json": "^2.0.1"
   },
+  "scripts": {
+    "start" "node bot.js"
+  },
   "devDependencies": {
     "eslint": "^6.6.0"
   },
